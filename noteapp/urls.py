@@ -8,5 +8,5 @@ urlpatterns = [
 ]
 
 # endpoints:
-# GET_ALL_NOTES_and_CREATE_NEW_NOTE = "127.0.0.1:8004/notes/"
-# GET_SPECIFIC_NOTE = "127.0.0.1:8004/notes/note-slug"
+# GET_ALL_NOTES_and_CREATE_NEW_NOTE = "127.0.0.1:8008/notes/"
+# GET_SPECIFIC_NOTE = "127.0.0.1:8008/notes/note-slug"
